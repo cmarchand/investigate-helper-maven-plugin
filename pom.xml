@@ -30,8 +30,8 @@ limitations under the License.
     <url>https://github.com/cmarchand/nvestigate-helper-maven-plugin</url>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:cmarchand/investigate-helper-maven-plugin.git</developerConnection>
-        <url>https://github.com/cmarchand/investigate-helper-maven-plugin</url>
+        <developerConnection>scm:git:git@github.com:cmarchand/nvestigate-helper-maven-plugin.git</developerConnection>
+        <url>https://github.com/cmarchand/nvestigate-helper-maven-plugin</url>
         <tag>HEAD</tag>
     </scm>
 
