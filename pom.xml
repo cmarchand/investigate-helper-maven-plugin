@@ -19,7 +19,7 @@ limitations under the License.
 
     <groupId>top.marchand.maven.plugins</groupId>
     <artifactId>investigate-helper-maven-plugin</artifactId>
-    <version>1.00.00</version>
+    <version>1.00.00-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>investigate-helper-maven-plugin</name>
